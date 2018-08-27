@@ -25,3 +25,4 @@ env:
   global:
   - ENCRYPTION_LABEL: "de967aecadce"
   - COMMIT_AUTHOR_EMAIL: "plh+deploy@w3.org"
+  - CODECOV_TOKEN="eb13f4ab-ebad-4355-8d4e-eaa26b133625"
